@@ -1,4 +1,6 @@
-![Dhaval Gameti](./images/dhaval.jpg)
+<div align="center">
+  <img src="./images/dhaval.jpg" width="100" height="100" style="border-radius: 50%; object-fit: cover;">
+</div>
 # 👋 Hi, I'm Dhaval Gameti
 
 **Solo Developer | Tech Explorer | Builder by Habit**
