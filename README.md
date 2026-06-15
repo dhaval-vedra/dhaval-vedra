@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/03/fb/ec/03fbeca15c328db09a96eecbd8ba89f2.gif" width="100%" style="border-radius: 12px; margin-bottom: 30px; box-shadow: 0px 10px 40px rgba(57, 255, 20, 0.25);" alt="Elite Environment">
+<img src="https://i.pinimg.com/originals/03/fb/ec/03fbeca15c328db09a96eecbd8ba89f2.gif" width="100%" style="border-radius: 12px; margin-bottom: 30px; box-shadow: 0px 10px 40px rgba(57, 255, 20, 0.25);" alt="">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=50&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=80&repeat=false&lines=DHAVAL+GAMETI" alt="Dhaval Gameti" />
