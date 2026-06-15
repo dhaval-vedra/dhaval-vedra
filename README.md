@@ -84,18 +84,6 @@ pip install litecv
 
 ---
 
-### 📊 GitHub Stats & Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhavalgameti&theme=github-dark-neon" alt="Dhaval's Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhavalgameti&show_icons=true&theme=neon&count_private=true" alt="Dhaval's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalgameti&layout=compact&theme=neon" alt="Top Languages" height="180px" />
-</p>
-
----
 
 <p align="center">
   <strong>📌 Always learning. Always building.</strong><br>
