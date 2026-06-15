@@ -133,6 +133,8 @@
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=dhaval-vedra&background=050505&stroke=39FF14&ring=00E5FF&fire=00E5FF&currStreakNum=39FF14&sideNums=E5E4E2&sideLabels=E5E4E2&dates=E5E4E2&hide_border=true&v=2" width="60%" alt="GitHub Streak" />
 
+  <img src="https://streak-stats.demolab.com/?user=dhaval-vedra&background=050505&stroke=39FF14&ring=00E5FF&fire=00E5FF&currStreakNum=39FF14&sideNums=E5E4E2&sideLabels=E5E4E2&dates=E5E4E2&hide_border=true&v=2" width="60%" alt="GitHub Streak" />
+
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaval-vedra&bg_color=050505&color=E5E4E2&line=39FF14&point=00E5FF&hide_border=true&v=2" width="80%" alt="Activity Graph" />
 
