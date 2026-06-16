@@ -19,8 +19,8 @@
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=39FF14&border=39FF14" alt="GitHub"/></a>
-  <a href="mailto:your.email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/></a>
+  <a href="https://github.com/dhaval-vedra" target="_blank"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=39FF14&border=39FF14" alt="GitHub"/></a>
+  <a href="mailto:gametidhaval980@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/></a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=40&repeat=false&lines=────────────────────────────────────────────────────────────────────────────────────" alt="Divider" />
