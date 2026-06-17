@@ -22,8 +22,8 @@
     🔗 Explore More Projects
   </h3>
   <p style="color: #E5E4E2; font-family: 'Montserrat', sans-serif; font-size: 14px;">
-    My main GitHub account is <b style="color:#39FF14;">dhaval-vedra</b> where all my open-source projects live.  
-    👉 <a href="https://github.com/dhaval-vedra" target="_blank" style="color:#00E5FF;">Follow there for full portfolio</a>
+    My main GitHub account is <b style="color:#39FF14;">dhaval-gameti</b> where all my open-source projects live.  
+    👉 <a href="https://github.com/dhaval-gameti" target="_blank" style="color:#00E5FF;">Follow there for full portfolio</a>
   </p>
 </div>
 
